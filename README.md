@@ -1,2 +1,2 @@
 # GamesJS
-Repositório com jogos desenvolvidos com JavaScript
+Repositório com jogos desenvolvidos principalmente por JavaScript
